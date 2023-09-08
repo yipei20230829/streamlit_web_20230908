@@ -27,7 +27,7 @@ st.set_page_config(
 
 st.title('Machine Learning 學習歷程')   
 
-tab1, tab2 , tab3 , tab4 , tab5 , tab6= st.tabs(["Breast Cancer","Penguins","Boston House Price","Taxi Tips","Prediction Number","Prediction English Alphabet"])
+tab1, tab2 , tab3 , tab4 , tab5 , tab6= st.tabs(["Breast Cancer","Penguins","Boston House Price","Taxi Tips","Prediction Number Image","Prediction English Alphabet"])
 with tab1:
     # url must be external url instead of local file
     # st.markdown(f"### [![分類]({url})](分類)")
