@@ -2,3 +2,5 @@ streamlit
 numpy
 pandas
 scikit-learn
+scikit-image
+tensorflow-cpu
